@@ -1,0 +1,13 @@
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\obj\Debug\netcoreapp3.1\CanviaPruebaTecnica.csprojAssemblyReference.cache
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\obj\Debug\netcoreapp3.1\CanviaPruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\obj\Debug\netcoreapp3.1\CanviaPruebaTecnica.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\obj\Debug\netcoreapp3.1\CanviaPruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\bin\Debug\netcoreapp3.1\CanviaPruebaTecnica.exe
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\bin\Debug\netcoreapp3.1\CanviaPruebaTecnica.deps.json
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\bin\Debug\netcoreapp3.1\CanviaPruebaTecnica.runtimeconfig.json
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\bin\Debug\netcoreapp3.1\CanviaPruebaTecnica.runtimeconfig.dev.json
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\bin\Debug\netcoreapp3.1\CanviaPruebaTecnica.dll
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\bin\Debug\netcoreapp3.1\CanviaPruebaTecnica.pdb
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\obj\Debug\netcoreapp3.1\CanviaPruebaTecnica.dll
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\obj\Debug\netcoreapp3.1\CanviaPruebaTecnica.pdb
+C:\Users\Jesus\Desktop\CANVIA\CanviaPruebaTecnica\CanviaPruebaTecnica\obj\Debug\netcoreapp3.1\CanviaPruebaTecnica.genruntimeconfig.cache
